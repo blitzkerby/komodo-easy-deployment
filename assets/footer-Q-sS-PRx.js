@@ -4,7 +4,7 @@
         <div  class="container">
             <navi  class="navi">
                 <ul  class="navi-list navi-list-mobile">
-                    <li  class="navi-item  navi-logo">  <a  href="index.html"   class="navi-link  navi-link-apple"> </a>  </li>                            
+                    <li  class="navi-item  navi-logo">  <a  href="./index.html"   class="navi-link  navi-link-apple"> </a>  </li>                            
                     <li  class="navi-item">             <a  href="#"   class="navi-link  navi-link-search">         </a>  </li>
                     <li  class="navi-item">             <a  href="#"   class="navi-link  navi-link-bag">            </a>  </li>
                     <li  class="navi-item">
