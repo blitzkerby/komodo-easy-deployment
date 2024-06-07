@@ -15,7 +15,7 @@
                     </li>
                 </ul>
                 <ul  class="navi-list  navi-list-larger">
-                    <li  class="navi-item  navi-item-hidden"    id="apple-icon"><a  href="index.html"   class="navi-link  navi-link-apple"></a></li> 
+                    <li  class="navi-item  navi-item-hidden"    id="apple-icon"><a  href="./index.html"   class="navi-link  navi-link-apple"></a></li> 
                     <li  class="navi-item"  id="nav-store"          ><a  href="#"                 class="navi-link">   Store   </a></li>
                     <li  class="navi-item"  id="nav-mac"            ><a  href="./mac.html"        class="navi-link">   Mac   </a></li>
                     <li  class="navi-item"  id="nav-ipad"           ><a  href="#"                 class="navi-link">   iPad   </a></li>
